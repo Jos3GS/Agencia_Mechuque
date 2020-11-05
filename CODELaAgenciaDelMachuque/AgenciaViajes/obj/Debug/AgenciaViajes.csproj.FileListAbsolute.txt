@@ -1,0 +1,16 @@
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\obj\Debug\AgenciaViajes.csprojAssemblyReference.cache
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\obj\Debug\AgenciaViajes.Form1.resources
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\obj\Debug\AgenciaViajes.Properties.Resources.resources
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\obj\Debug\AgenciaViajes.csproj.GenerateResource.cache
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\obj\Debug\AgenciaViajes.Plane.resources
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\obj\Debug\AgenciaViajes.MessageBoxPERop.resources
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\bin\Debug\La Agencia de MACHUQUE.exe.config
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\bin\Debug\La Agencia de MACHUQUE.exe.manifest
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\bin\Debug\La Agencia de MACHUQUE.application
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\bin\Debug\La Agencia de MACHUQUE.exe
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\bin\Debug\La Agencia de MACHUQUE.pdb
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\obj\Debug\La Agencia de MACHUQUE.TrustInfo.xml
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\obj\Debug\La Agencia de MACHUQUE.exe.manifest
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\obj\Debug\La Agencia de MACHUQUE.application
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\obj\Debug\La Agencia de MACHUQUE.exe
+C:\Users\guti-\source\repos\AgenciaViajes\AgenciaViajes\obj\Debug\La Agencia de MACHUQUE.pdb
